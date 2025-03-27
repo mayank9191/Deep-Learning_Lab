@@ -1,0 +1,60 @@
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+env/
+ENV/
+.venv/
+
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# macOS resource fork files
+._*
+
+# Logs and temporary files
+*.log
+*.out
+*.err
+*.swp
+*.swo
+*.swn
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# TensorBoard logs and checkpoints
+logs/
+checkpoints/
+
+# Data files
+*.csv
+*.npy
+*.npz
+
+# Model files
+*.hdf5
+*.ckpt
+*.pt
+
+# IDE and editor files
+.vscode/
+.idea/
+*.iml
+
+# Python egg files
+*.egg
+*.egg-info/
+dist/
+build/
+*.so
+
+# Pip and poetry lock files
+*.lock
+pip-wheel-metadata/
